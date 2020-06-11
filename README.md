@@ -1,4 +1,4 @@
-Tic-tac-toe game using React.
+Tic-tac-toe game using React.<br />
 I follow [this tutorial](https://reactjs.org/tutorial/tutorial.html) and add some features.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
