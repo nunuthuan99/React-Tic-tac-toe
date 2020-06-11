@@ -2,7 +2,7 @@
   "name": "my-app",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/nunuthuan99/React-Tic-tac-toe",
+  "homepage": "https://nunuthuan99.github.io/React-Tic-tac-toe/",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.5.0",
