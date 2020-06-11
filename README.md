@@ -1,5 +1,5 @@
 Tic-tac-toe game using React.<br />
-Play game [here](https://nunuthuan99.github.io/React-Tic-tac-toe/)!.<br />
+Play game [here](https://nunuthuan99.github.io/React-Tic-tac-toe/) !<br />
 I follow [this tutorial](https://reactjs.org/tutorial/tutorial.html) and add some features.
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
