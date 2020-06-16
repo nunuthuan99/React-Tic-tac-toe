@@ -52,7 +52,7 @@ class Game extends React.Component {
   }
 
   // for clicking on the matrix board.
-  handleClick(i) {
+  handleClick = (i) => { // a callback
     const history = this.state.history.slice(0, this.state.stepNumber + 1);
     const current = history[history.length - 1];
     const squares = current.squares.slice(); // copy array
@@ -136,7 +136,7 @@ class Game extends React.Component {
         <div className="game-board">
           <Board 
             squares = {current.squares} 
-            onClick = {(i) => this.handleClick(i)}
+            onClick = {this.handleClick}
           />
         </div>
         <div className="game-info">
